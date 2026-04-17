@@ -1,164 +1,158 @@
-<h1 align="center">🎯 Hi, I am Adil — Abdul Aadhil A 🎯</h1>
-<h3 align="center">🔥 AI & Data Science Student | Full Stack Developer | System Builder</h3>
+<h1 align="center">Hi 👋, I'm Abdul Aadhil A</h1>
+<h3 align="center">AI & Data Science Student | Python Developer | Building Real-World Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=38&center=true&vCenter=true&width=1200&lines=SYSTEM+BOOTING...;TARGET+LOCKED+🎯;FULL+STACK+DEVELOPER;AI+ENGINE+RUNNING;MISSION%3A+BUILD+%2F+DEBUG+%2F+SCALE;LEVEL+UP+EVERYDAY+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=36&center=true&vCenter=true&width=1100&lines=Full+Stack+Developer;AI+Learner;System+Builder;Problem+Solver;Consistency+%3D+Growth;Always+Building+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="260"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=180&section=header"/>
 </p>
 
 ---
 
-# 🔫 COMBAT PROFILE
+# 🚀 ABOUT
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=24&center=true&vCenter=true&width=1100&lines=Weapon+System+Ready...;Aiming+Target...;Fire+🔥;Eliminate+Bugs+✔️" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=24&center=true&vCenter=true&width=1000&lines=Focused+on+Real+World+Solutions;Learning+by+Building;Growing+Everyday;Exploring+AI+and+Systems" />
 </p>
 
 ```
 Name        : Abdul Aadhil A
-Alias       : Adil
 Role        : AI & Data Science Student
-Class       : Full Stack Developer
-Speciality  : Debugging + Problem Solving
-Status      : Active 🟢
-Mode        : Detect → Aim → Shoot → Fix → Upgrade
+Focus       : Full Stack Development + Backend Systems
+Strength    : Problem Solving
+Approach    : Build → Learn → Improve → Scale
 ```
 
 ---
 
-# 🎮 SKILL LOADOUT
+# 🧠 SKILLS
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=24&center=true&vCenter=true&width=1100&lines=Loading+Weapons...;Frontend+Arsenal;Backend+Core;AI+Systems+Online" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=24&center=true&vCenter=true&width=1000&lines=Core+Technologies;Modern+Stack;Continuous+Learning" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,flask,mysql,linux,git,html,css,javascript" height="95"/>
+  <img src="https://skillicons.dev/icons?i=python,react,flask,mysql,linux,git,html,css,javascript" height="85"/>
 </p>
 
 ```
-Primary Weapons:
-- Python (Core Engine)
-- Flask (Backend Control)
-- JavaScript (Dynamic Logic)
-- HTML/CSS (UI Layer)
-- MySQL (Data Storage)
+Languages & Tools:
+- Python
+- JavaScript
+- HTML, CSS
+- Flask
+- React (Learning)
+- MySQL
+- Linux
+- Git
 
-Secondary Weapons:
-- React (UI Upgrade)
-- Linux + Git (Dev Environment)
-- C / C++ (Core Programming)
-
-Special Ability:
-- Bug Detection 🎯
-- Debug Execution 🔫
-- System Optimization ⚙️
+Core Concepts:
+- Backend Development
+- API Design
+- Database Handling
+- System Thinking
+- Debugging & Optimization
 ```
 
 ---
 
-# 🎯 ACTIVE MISSION
+# 🎯 CURRENT FOCUS
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=1100&lines=Mission+Accepted...;Building+Projects...;Eliminating+Bugs...;Scaling+Systems..." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=1000&lines=Building+Projects;Learning+React+%26+Node;Improving+Backend+Skills;Exploring+AI+Integration" />
 </p>
 
 ```
-Current Objectives:
-- Build Real-World Applications
-- Master Backend Systems
-- Learn React & NodeJS
-- Improve System Design Thinking
+- Building real-world applications
+- Learning modern web technologies
+- Improving system design thinking
+- Exploring AI-based solutions
 ```
 
 ---
 
-# 🌐 NETWORK ACCESS
+# 🌐 CONNECT
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdul-aadhil-a-543345404">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="65"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
   </a>
   <a href="https://github.com/abdulaadhil10c-lab">
-    <img src="https://skillicons.dev/icons?i=github" height="65"/>
+    <img src="https://skillicons.dev/icons?i=github" height="60"/>
   </a>
   <a href="https://kaggle.com/abdulaadhil">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="65" style="background:white;padding:10px;border-radius:12px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="60" style="background:white;padding:10px;border-radius:12px;"/>
   </a>
   <a href="https://instagram.com/i.aad.hil">
-    <img src="https://skillicons.dev/icons?i=instagram" height="65"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="60"/>
   </a>
   <a href="https://dribbble.com/abdul-">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dribbble.svg" height="65" style="background:white;padding:10px;border-radius:12px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dribbble.svg" height="60" style="background:white;padding:10px;border-radius:12px;"/>
   </a>
   <a href="https://medium.com/@abdulaadhil10c">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="65" style="background:white;padding:10px;border-radius:12px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="60" style="background:white;padding:10px;border-radius:12px;"/>
   </a>
 </p>
 
 ---
 
-# 📡 CONTACT CHANNEL
+# 📫 CONTACT
 
 ```
 Email   : abdulaadhil10c@gmail.com
-Status  : Available for Missions
-Mode    : Build + Debug + Scale
+Status  : Open to opportunities & collaboration
 ```
 
 ---
 
-# ⚙️ SYSTEM CORE
+# 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=24&center=true&vCenter=true&width=1100&lines=System+Processing...;Target+Analysis...;Execution+Running...;Optimization+Loop+Active" />
-</p>
-
-```
-Input → Analyze → Target → Shoot → Fix → Optimize → Repeat
-```
-
----
-
-# 📊 PERFORMANCE STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulaadhil10c-lab&show_icons=true&theme=radical&hide_border=true" height="190"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulaadhil10c-lab&layout=compact&theme=radical&hide_border=true" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulaadhil10c-lab&show_icons=true&theme=tokyonight&hide_border=true" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulaadhil10c-lab&layout=compact&theme=tokyonight&hide_border=true" height="190"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulaadhil10c-lab&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulaadhil10c-lab&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🚀 NEXT MISSION
+# 🧩 ENGINEERING APPROACH
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=24&center=true&vCenter=true&width=1100&lines=Next+Target+Locked...;Full+Stack+Mastery;AI+Integration;Cloud+Deployment;High+Performance+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&size=24&center=true&vCenter=true&width=1000&lines=Think+in+Systems;Solve+Real+Problems;Write+Clean+Code;Optimize+Continuously" />
 </p>
 
 ```
-Upcoming Upgrades:
-- Authentication Systems
-- Advanced React UI
-- Cloud Deployment
-- AI Integration
-- Scalable Architecture
+Input → Process → Build → Test → Improve → Scale
 ```
 
 ---
 
-# 🏁 FINAL COMMAND
+# 🚀 FUTURE GOALS
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=30&center=true&vCenter=true&width=1100&lines=LOCK+TARGET;FIRE+CODE;BUILD+SYSTEMS;NO+BUG+SURVIVES+🎯" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=24&center=true&vCenter=true&width=1000&lines=Full+Stack+Mastery;AI+Integration;Cloud+Deployment;Scalable+Systems" />
+</p>
+
+```
+- Master full stack development
+- Build scalable applications
+- Integrate AI into real-world systems
+- Deploy production-ready projects
+```
+
+---
+
+# ⚡ FINAL NOTE
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=28&center=true&vCenter=true&width=1000&lines=Keep+Building.;Stay+Consistent.;Never+Stop+Learning." />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="260"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00F7FF&height=180&section=footer"/>
 </p>
